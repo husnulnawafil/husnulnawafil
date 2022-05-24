@@ -1,5 +1,5 @@
 <h2 align="center">Hello everyone! My name is Husnul Nawafil. 👋</h2>
-<p align="center">I'm Indonesian. I'm currently learning Golang, hopefully my dream of becoming a software engineer becomes true. Besides that I am also learning Javascript and Figma because I'm also interested in the front end or UI/UX field. Anyway until now still focusing on Golang</p>
+<p align="center">I just graduated from Alterra Academy Coding Bootcamp in Backend Engineering Program. I have worked on several team projects during bootcamp such as Booking Sport Arena, Event Planner, and Simple E-Commerce Application using Golang language by building Restful API using echo framework and GORM as ORM library for Golang. I have also learned the fundamentals of the Javascript language as well.</p>
 
 <p align="center">When I'm not doing anything I usually listening to music on spotify, watching youtube, and sometimes cooking by following recipes from the internet.</p>
 
