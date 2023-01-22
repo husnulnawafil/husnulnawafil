@@ -1,7 +1,5 @@
 <h2 align="center">Hello everyone! My name is Husnul Nawafil. 👋</h2>
-<p align="center">I am currently working as a back-end Engineer at FIT HUB. As a back-end Engineer, I develop, optimize, and maintain the website and application using Javascript (Express JS) , as also Amazon dynamoDB and Google Firestore to store the databases. 
-
-Besides, I also have some experience building a back-end application using other tools or utilities such as Go (Echo) and MySQL.</p>
+<p align="center">As a back-end Engineer at FIT HUB, dedicated to delivering high-quality, and scalable solutions. Expertising in Node JS and Golang also have been experiencing working with databases such as Amazon DynamoDB, MySQL and Google Firestore. Constantly seeking opportunities to learn and grow, and excited to connect with like-minded individuals on this platform to share knowledge and collaborate on projects.</p>
 
 <p align="center">When I'm not doing anything I usually listening to music on spotify, watching youtube and some sport matches, and sometimes cooking by following recipes from the internet.</p>
 
